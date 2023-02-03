@@ -1,0 +1,18 @@
+{
+    "builtin": "False",
+    "default_enabled": "True",
+    "type": "extension",
+    "rocket_mode_compatible": "True",
+    "name": "Sarcasm Detection in Tweets: A Transfer Learning Approach",
+    "description": "In this project, you will use transfer learning and build a sarcasm classifier for tweets using the Sentiment140 dataset and GloVe embeddings.",
+    "author": "Daniel Moreno",
+    "author_profile": "www.linkedin.com/in/dmoreno-ai",
+    "url": "https://github.com/moreno32/Sarcasm-Detection-in-Tweets--A-Transfer-Learning-Approach.git",
+    "website": "https://www.danielmoreno.com",
+    "image": "",
+    "templates": {
+        "author": "",
+        "docpath": ""
+    },
+    "dependencies": []
+}
